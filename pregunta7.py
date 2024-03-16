@@ -1,6 +1,8 @@
 ##Escriba una función de Python que tome un número como parámetro y verifique que el número sea
 ##primo o no.
 
+## definimos la funcion
+
 def es_primo(numero):
 
     if numero <= 1:
